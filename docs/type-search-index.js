@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"online.technotap.dsa2.dp","l":"MaximalSquare"},{"p":"online.technotap.dsa2.dp","l":"PathsWithMinJumps"}];updateSearchResults();
